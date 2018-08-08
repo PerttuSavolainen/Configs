@@ -1,7 +1,12 @@
 // Place your settings in this file to overwrite the default settings
 {
+  "php.validate.executablePath": null,
   "editor.fontSize": 13,
   "editor.tabSize": 2,
   "editor.renderWhitespace": "boundary",
-  "editor.formatOnSave": true
+  "editor.formatOnSave": true,
+  "files.trimTrailingWhitespace": true,
+  "debug.inlineValues": true,
+  "telemetry.enableTelemetry": false,
+  "telemetry.enableCrashReporter": false
 }
